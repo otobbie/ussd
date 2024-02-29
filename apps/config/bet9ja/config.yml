@@ -1,0 +1,6 @@
+pages:
+      identity: "Welcome to Bet9ja \nPlease enter your account ID:"
+      invalid: "Invalid entry please try again."
+      confirm: "Please enter your account ID:"
+      amount: "Enter amount:"
+      banks: "Select bank: \n1. ACCESS \n2. ECOBANK\n3. FBN\n4. FIDELITY\n5. GTB \n6. KEYSTONE \n7. STANBIC IBTC PLC \n8. STERLING \n9. UBA \n10. UNITY \n11. WEMA \n12. ZENITH"

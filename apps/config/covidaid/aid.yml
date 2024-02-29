@@ -1,0 +1,5 @@
+pages:
+      name: "COVID AID REQUEST \nEnter your full name:"
+      street: "COVID AID REQUEST \nEnter your full address (Lockdown areas only) "
+      family_size: "COVID AID REQUEST \nFamily size: \n1. 1 person \n2. 2 - 4 persons \n3. 5 - 8 persons \n4. 9 - 12 persons \n5. Over 12 persons"
+      menu: "COVID AID REQUEST \nHow would you like to register? \n1. USSD \n2. Web "
