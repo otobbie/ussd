@@ -1,0 +1,16 @@
+pages:
+    welcome: "Universal Insurance Plc\nVehicle 3rd Party:\n1. New Policy\n2. Policy Renewal"
+    new: "New Motor 3rd Party Insurance\n Enter Owner Name(Eg: Fola John)"
+    enter_vehicle_plate_number: "Enter Vehicle Plate Number(Eg: krd823bm)"
+    enter_reg_chasis: "Enter Vehicle Chasis Number(Eg: )"
+    enter_vehicle_make: "Enter Vehicle Make(Eg: Honda, Civic)"
+    enter_vehicle_color: "Enter Vehicle Color(Eg: Black)"
+    enter_email: "Enter Email(Eg: example@gmail.com)"
+    select_banks: "Select bank:\n1. Zenith\n2. Access"
+    APIKEY: "KG69034WRVFPL987ZB"
+    Username: "USSD_2108"
+    Password: "LG34YXG57"
+    confirm: "Press 1 to confirm your request\n"
+    policy_number: "Enter Policy Number: (Eg: UPMSB001190319141010)"
+    renewal: "Universal Insurance Plc\nVehicle 3rd Party Renewal\nEnter vehicle plate number (Eg: krd823bm)"
+
