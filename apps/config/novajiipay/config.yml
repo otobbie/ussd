@@ -1,9 +1,0 @@
-pages:
-      amount: "Enter amount"
-      select_bank: "Select Bank: \n1. ACCESS BANK NIGERIA\n2. STERLING BANK PLC\n3. PROVIDUS BANK\n4. UNITY BANK PLC\n5. ZENITH BANK PLC \n6. PAY WITH NIBSS"
-      account_number: "Enter account Number:"
-      user_name: "Enter Fullname (eg:MUSA EZE AYO): "
-      pin_num: "Enter PIN generated from hardware token:"
-      otp: "Please Enter the OTP sent to your phone number"
-      dob: "Enter date of birth(DDMMYYYY) Required by your bank:"
-      bvn: "Enter BVN number:"
